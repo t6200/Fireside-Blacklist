@@ -59,7 +59,3 @@ This archive is released under the **MIT License**.
 ---
 
 *Archive curated by **t_62__*** *Origin: Fall 2025*
-
----
-
-Would you like me to generate a **`.gitignore`** file for you? This is crucial to ensure you don't accidentally upload your `token` or `.env` files to GitHub when you push this archive.
